@@ -1,0 +1,26 @@
+.modal-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+::-webkit-scrollbar {
+    width: 5px; /* Ширина всего элемента навигации */
+}
+
+::-webkit-scrollbar-track {
+    background: #E7E2D9; /* Цвет дорожки */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #beb9b4; /* Цвет бегунка */
+}
+
+::-webkit-scrollbar-thumb:active {
+    background-color: #011101; /* Цвет бегунка */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #011101; /* Цвет бегунка */
+}
